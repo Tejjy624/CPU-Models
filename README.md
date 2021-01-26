@@ -11,6 +11,8 @@ Goals:
 - Learn how to handle the complexity of a real memory system.
 - Evaluate different CPU designs.
 - Evaluate trade-offs between different designs.
+- Explore different implementation of matrix multiplication.
+- Experiment with different memory access patterns and parallelism to find the best implementation on modern processors.
 
 Completed Builds:
 
